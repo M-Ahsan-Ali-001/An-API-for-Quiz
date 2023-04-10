@@ -1,0 +1,81 @@
+[
+  {
+    "question": "What is Network Address Translation (NAT)?",
+    "options": [
+      "A technique used to translate public IP addresses to private IP addresses",
+      "A technique used to translate private IP addresses to public IP addresses",
+      "A technique used to translate IPv4 addresses to IPv6 addresses",
+      "A technique used to translate MAC addresses to IP addresses"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the purpose of NAT?",
+    "options": [
+      "To improve network performance",
+      "To provide enhanced network security",
+      "To translate IP addresses between different networks",
+      "To monitor network traffic for security purposes"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a type of NAT?",
+    "options": [
+      "Static NAT",
+      "Dynamic NAT",
+      "Overload NAT",
+      "Virtual NAT"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "What is the difference between Static NAT and Dynamic NAT?",
+    "options": [
+      "Static NAT uses a fixed mapping between public and private IP addresses, while Dynamic NAT uses a pool of public IP addresses to dynamically assign to private IP addresses",
+      "Static NAT is used for incoming traffic, while Dynamic NAT is used for outgoing traffic",
+      "Static NAT is used for outgoing traffic, while Dynamic NAT is used for incoming traffic",
+      "Static NAT is a type of Overload NAT, while Dynamic NAT is a type of Virtual NAT"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is a benefit of using NAT?",
+    "options": [
+      "It improves network performance",
+      "It reduces the risk of IP address conflicts",
+      "It provides enhanced network security",
+      "It enables the use of IPv6 addresses"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a limitation of NAT?",
+    "options": [
+      "It cannot handle large amounts of network traffic",
+      "It is not compatible with all types of network devices",
+      "It can only translate IPv4 addresses, not IPv6 addresses",
+      "It can cause network latency or delay"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the purpose of Destination NAT?",
+    "options": [
+      "To translate the source IP address of outgoing traffic",
+      "To translate the destination IP address of incoming traffic",
+      "To translate both the source and destination IP addresses of incoming and outgoing traffic",
+      "To assign unique port numbers to devices on a network"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is an example of a NAT traversal technique used in virtual private networks (VPNs)?",
+    "options": [
+      "Internet Protocol Security (IPsec)",
+      "Secure Sockets Layer (SSL)",
+      "Point-to-Point Tunneling Protocol (PPTP)",
+      "Layer 2 Tunneling Protocol (L2TP)"
+    ],
+    "answer": 1
+  }]
